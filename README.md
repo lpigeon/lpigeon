@@ -5,6 +5,9 @@
 무엇인가 실제로 해보는게 좋아하고 다양한 개발을 해보고싶습니다. <br>
 관심있는 분야가 매번 바뀌지만 현재는 AI, Blockchain에 관심있습니다.
 
+## What Project I Am Working
+1. (Team) Pose-Esetimation과 Unity를 이용한 Metaverse 운동 프로그램 제작중 - Unity를 이용한 Metaverse 환경구축 담당 
+
 ## What Project I Worked
 1. (Individual) Pygame을 사용한 간단한 <a href="https://github.com/LPIGEON/Small-Hell"> 게임 </a> 제작 <br>
 2. (Individual) Html, CSS, Javascript, Web3를 사용한 <a href="https://metagirlsminting.netlify.app/"> NFT Minting Site </a> 제작 <br>
@@ -13,9 +16,6 @@
 ## What Assignment I Worked
 1. (Individual) RISK-V를 사용한 숫자 분류 프로그램 <br>
 2. (Individual) Matlab을 사용한 이족보행로봇의 계단 오를때 필요한 각 관절 각도 수치계산 프로그램
-
-## What Project I Am Working
-1. (Team) Pose-Esetimation과 Unity를 이용한 Metaverse 운동 프로그램 제작중 - Unity를 이용한 Metaverse 환경구축 담당 
 
 ## Main Programing Language 
 1. Python
