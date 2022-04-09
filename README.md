@@ -1,9 +1,9 @@
 # Hi, I'm Jungsoo Lee
 
 ## Whoami
-한양대학교 에리카에서 로봇공학을 전공중인 INTJ 대학생입니다. <br>
-무엇인가 실제로 해보는게 좋아하고 다양한 개발을 해보고싶습니다. <br>
-관심있는 분야가 매번 바뀌지만 현재는 AI, Blockchain에 관심있습니다.
+* 한양대학교 에리카에서 로봇공학을 전공중인 INTJ 대학생입니다. <br>
+* 무엇인가 실제로 해보는걸 좋아해서 다양한 분야를 시도해보고 있습니다. <br>
+* 관심있는 분야가 매번 바뀌지만 현재는 AI, Blockchain에 관심있습니다.
 
 ## What Project I Am Working
 1. (Team) Pose-Esetimation과 Unity를 이용한 Metaverse 운동 프로그램 제작중 - Unity를 이용한 Metaverse 환경구축 담당 
