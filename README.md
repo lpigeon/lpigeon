@@ -15,7 +15,7 @@
 2. (Individual) Matlab을 사용한 이족보행로봇의 계단 오를때 필요한 각 관절 각도 수치계산 프로그램
 
 ## What Project I Am Working
-1. (Team) Pose-Esetimation과 Unity를 이용한 Metaverse 운동 프로그램 제작중 - Unity를 이용한 Metaverse 환경구축 
+1. (Team) Pose-Esetimation과 Unity를 이용한 Metaverse 운동 프로그램 제작중 - Unity를 이용한 Metaverse 환경구축 담당 
 
 ## Main Programing Language 
 1. Python
