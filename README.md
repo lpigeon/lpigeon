@@ -5,7 +5,7 @@
 AI, Blockchain에 흥미를 느끼고있습니다.
 
 ## What Project I Worked
-1. Pygame을 사용한 간단한 게임 제작 <br>
+1. Pygame을 사용한 간단한 <a href="https://github.com/LPIGEON/Small-Hell"> 게임 </a> 제작 <br>
 2. Html, CSS, Javascript, Web3를 사용한 <a href="https://metagirlsminting.netlify.app/"> NFT Minting Site </a> 제작 <br>
 3. Pose-Esetimation을 이용한 사용자와 영상의 사람의 춤 정확도를 계산해주는 프로그램 제작
 
