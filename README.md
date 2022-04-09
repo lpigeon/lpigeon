@@ -19,5 +19,5 @@
 2. (Individual) Matlab을 사용한 이족보행로봇의 계단 오를때 필요한 각 관절 각도 수치계산 프로그램 <a href="https://github.com/LPIGEON/Numerical_Computation/blob/main/README.md"> Numerical Computation </a>
 
 ## Main Programing Language 
-1. Python
-2. C++
+1. Python ★★★☆☆
+2. C++ ★★★☆☆
