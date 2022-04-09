@@ -17,7 +17,7 @@
 <a href="https://www.youtube.com/watch?v=2MG2UBXA9t8&lc=UgxvI0OJWcPJLxfUfSJ4AaABAg"> YOROKE </a>
 
 
-## Main Programing Language 
+## Using Language 
 1. Python ★★★☆☆
 2. C ★★☆☆☆
 3. C++ ★★★☆☆
