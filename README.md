@@ -6,7 +6,7 @@
 * 관심있는 분야가 매번 바뀌지만 현재는 AI, Blockchain에 관심있습니다.
 
 ## What Project I Am Working
-1. (Team) Pose-Esetimation과 Unity를 이용한 Metaverse 운동 프로그램 제작중 - Unity를 이용한 Metaverse 환경구축 담당 
+1. (Team) Pose-Esetimation과 Unity를 이용한 Metaverse 운동교육 플렛폼 제작중 - Unity를 이용한 Metaverse 환경구축 담당 
 
 ## What Project I Worked
 1. (Individual) Pygame을 사용한 간단한 게임 제작 <a href="https://github.com/LPIGEON/Small-Hell"> Small Hell </a> <br>
