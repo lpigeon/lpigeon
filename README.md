@@ -15,7 +15,7 @@
 <a href="https://www.youtube.com/watch?v=2MG2UBXA9t8&lc=UgxvI0OJWcPJLxfUfSJ4AaABAg"> YOROKE </a>
 
 ## What Assignment I Worked
-1. (Individual) RISK-V를 사용한 숫자 분류 프로그램 <br>
+1. (Individual) RISK-V를 사용한 숫자 분류 프로그램 <a href="https://github.com/LPIGEON/Computer_System"> Computer System </a> <br>
 2. (Individual) Matlab을 사용한 이족보행로봇의 계단 오를때 필요한 각 관절 각도 수치계산 프로그램 <a href="https://github.com/LPIGEON/Numerical_Computation/blob/main/README.md"> Numerical Computation </a>
 
 ## Main Programing Language 
