@@ -2,7 +2,8 @@
 
 ## Whoami
 한양대학교 에리카에서 로봇공학을 전공중인 대학생입니다. <br>
-AI, Blockchain에 흥미를 느끼고있습니다.
+AI, Blockchain에 관심있습니다. <br>
+무엇인가 실제로 해보는게 좋고 다양한 개발을 해보고싶습니다.
 
 ## What Project I Worked
 1. Pygame을 사용한 간단한 <a href="https://github.com/LPIGEON/Small-Hell"> 게임 </a> 제작 <br>
