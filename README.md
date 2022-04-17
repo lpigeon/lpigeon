@@ -25,3 +25,4 @@
 4. HTML, CSS, JavaScript ★★☆☆☆
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlwjdtn7083)](https://solved.ac/dlwjdtn7083/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sabi)](https://solved.ac/sabi/)
