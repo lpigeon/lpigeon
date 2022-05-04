@@ -5,7 +5,8 @@
 * 실제로 해보는걸 좋아해서 다양한 분야를 공부하고 간단한 프로젝트를 직접해보고 있습니다. <br>
 
 ## What Project I Am Working
-1. (Team) Pose-Esetimation과 Unity를 이용한 Metaverse 운동교육 플렛폼 제작중 - Unity를 이용한 Metaverse 환경구축 담당 
+1. (Team) Pose-Esetimation과 Unity를 이용한 Metaverse 운동교육 플렛폼 제작중 - Unity를 이용한 Metaverse 환경구축 담당
+2. (Individual) AI 중간, 기말 프로젝트 - DFS,BFS,UCS,Greedy 및 Q-learning을 이용한 Pacman AI 제작중
 
 ## What Project I Worked
 1. (Individual) Pygame을 사용한 간단한 게임 제작 <a href="https://github.com/LPIGEON/Small-Hell"> Small Hell </a> <br>
@@ -18,9 +19,10 @@
 
 
 ## Using Language 
-1. Python ★★★☆☆
-2. C ★★☆☆☆
-3. C++ ★★★☆☆
-4. HTML, CSS, JavaScript ★★☆☆☆
+1. Python intermediate
+2. C intermediate
+3. C++ intermediate
+4. Javascript basic
+5. ROS basic
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sabi)](https://solved.ac/sabi/)
