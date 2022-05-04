@@ -19,10 +19,10 @@
 
 
 ## Using Language 
-1. Python intermediate
-2. C intermediate
-3. C++ intermediate
-4. Javascript basic
-5. ROS basic
+1. Python // intermediate
+2. C // intermediate
+3. C++ // intermediate
+4. Javascript // basic
+5. ROS // basic
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=sabi)](https://solved.ac/sabi/)
