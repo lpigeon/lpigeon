@@ -5,8 +5,7 @@
 * 실제로 해보는걸 좋아해서 다양한 분야를 공부하고 간단한 프로젝트를 직접해보고 있습니다. <br>
 
 ## What Project I Am Working
-1. (Team) Pose-Esetimation과 Unity를 이용한 Metaverse 운동교육 플렛폼 제작중 - Unity를 이용한 Metaverse 환경구축 담당
-2. (Individual) AI 중간, 기말 프로젝트 - DFS,BFS,UCS,Greedy 및 Q-learning을 이용한 Pacman AI 제작중
+1. (Individual) AI 중간, 기말 프로젝트 - DFS,BFS,UCS,Greedy 및 Q-learning을 이용한 Pacman AI 제작중
 
 ## What Project I Worked
 1. (Individual) Pygame을 사용한 간단한 게임 제작 <a href="https://github.com/LPIGEON/Small-Hell"> Small Hell </a> <br>
@@ -16,6 +15,8 @@
 5. (Team) Pose-Esetimation을 이용한 사용자와 영상의 사람의 춤 정확도를 계산해주는 플랫폼 YOROKE 제작 - Tensorflow를 사용한 pose 분석, 정확도 계산, Web 개발 담당
 <a href="https://www.youtube.com/watch?v=2MG2UBXA9t8&lc=UgxvI0OJWcPJLxfUfSJ4AaABAg"> Youtube </a>
 <a href="https://www.notion.so/914355d5a7f14f5091d3880745cb064a?v=3af8f199678e4c50a8aeca7c7047a466"> Notion </a>
+6. (Team) Pose-Esetimation과 Unity를 이용한 Metaverse 운동교육 플렛폼 제작 - Unity를 이용한 Metaverse 환경구축 담당
+<a href="https://github.com/sabi-github/Capstone_Design_2022"> Capstone Design 2022 </a>
 
 
 ## Using Language 
