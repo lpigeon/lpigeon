@@ -5,6 +5,7 @@
 * 실제로 해보는걸 좋아해서 다양한 분야를 공부하고 간단한 프로젝트를 직접해보고 있습니다. <br>
 
 ## What Project I Am Working
+1. 현장실습
 
 ## What Project I Worked
 1. (Individual) Pygame을 사용한 간단한 게임 제작 <a href="https://github.com/LPIGEON/Small-Hell"> Small Hell </a> <br>
