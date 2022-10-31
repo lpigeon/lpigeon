@@ -5,7 +5,7 @@
 * 실제로 해보는걸 좋아해서 다양한 분야를 공부하고 간단한 프로젝트를 직접해보고 있습니다. <br>
 
 ## What Project I Am Working
-1. 현장실습
+1. 인턴
 
 ## What Project I Worked
 1. (Individual) Pygame을 사용한 간단한 게임 제작 <a href="https://github.com/LPIGEON/Small-Hell"> Small Hell </a> <br>
@@ -19,6 +19,7 @@
 <a href="https://github.com/sabi-github/Capstone_Design_2022"> Capstone Design 2022 </a>
 7. (Individual) AI 중간, 기말 프로젝트 - DFS,BFS,UCS,Greedy 및 Q-learning을 이용한 Pacman AI 제작 </a>
 <a href="https://github.com/sabi-github/Artificial_Intelligence"> Artificial Intelligence </a>
+8. 현장실습 (7~9월)
 
 
 ## Using Language 
