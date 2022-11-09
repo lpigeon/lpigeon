@@ -1,4 +1,4 @@
-# print("Hi, I/'m Jungsoo Lee")
+# "Hi, I'm Jungsoo Lee"
 
 ## Whoami
 * 한양대학교 에리카에서 로봇공학을 전공중인 대학생입니다. <br>
