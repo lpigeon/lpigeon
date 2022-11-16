@@ -19,7 +19,7 @@
 <a href="https://github.com/sabi-github/Capstone_Design_2022"> Capstone Design 2022 </a>
 7. (Individual) AI 중간, 기말 프로젝트 - DFS,BFS,UCS,Greedy 및 Q-learning을 이용한 Pacman AI 제작 </a>
 <a href="https://github.com/sabi-github/Artificial_Intelligence"> Artificial Intelligence </a>
-8. 현장실습 (7~9월)
+8. 현장실습 (7~9월) - 머신러닝 모델 개발 및 자사 프로그램 GUI, Web 개발
 
 
 ## Skills
