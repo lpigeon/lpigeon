@@ -15,7 +15,7 @@
 <a href="https://www.youtube.com/watch?v=2MG2UBXA9t8&lc=UgxvI0OJWcPJLxfUfSJ4AaABAg"> Youtube </a>
 <a href="https://www.notion.so/914355d5a7f14f5091d3880745cb064a?v=3af8f199678e4c50a8aeca7c7047a466"> Notion </a>
 6. (Team) Production of Metaverse exercise education platform using Pose-Esetimation and Unity - Responsible for building Metaverse environment using Unity
-<a href="https://github.com/lpigeon/Capstone_Design_2022"> Capstone Design 2022 </a>
+<a href="https://github.com/lpigeon/Pose-Estimation-for-Interactive-Metaverse-Fitness"> PEIMF </a>
 7. (Individual) AI midterm and final project - Pacman AI creation using DFS, BFS, UCS, Greedy and Q-learning </a>
 <a href="https://github.com/lpigeon/Artificial_Intelligence"> Artificial Intelligence </a>
 8. Field practice (July-September) - Machine learning model development and company program GUI, Web development
