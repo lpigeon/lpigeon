@@ -1,5 +1,3 @@
-# "Hi, I'm Jungsoo Lee"
-
 ## Whoami
 * Hanyang University ERICA majored in Robotics Engineering. <br>
 * I like doing things, so I'm studying various fields and trying simple projects myself. <br>
