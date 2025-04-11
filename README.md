@@ -2,11 +2,21 @@
 I am a master's student in the Department of Applied Artificial Intelligence, conducting research on Human-Robot Interaction.
 
 ## Skills
+### Language
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### AI/ML
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+
+### Robot Frameworks
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+### Simulator
+![Static Badge](https://img.shields.io/badge/-Unity-grey?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/-Gazebo-orange?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/-IsaacSim-green?style=for-the-badge)
 
