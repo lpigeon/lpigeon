@@ -2,7 +2,7 @@
 I am a master's student in the Department of Applied Artificial Intelligence, conducting research on Human-Robot Interaction.
 
 ## Skills
-### Language
+### Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -14,6 +14,7 @@ I am a master's student in the Department of Applied Artificial Intelligence, co
 
 ### Robot Frameworks
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+![ROS2](https://img.shields.io/badge/ros2-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 
 ### Simulator
 ![Static Badge](https://img.shields.io/badge/-Unity-grey?style=for-the-badge)
