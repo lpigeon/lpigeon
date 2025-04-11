@@ -16,7 +16,7 @@ I am a master's student in the Department of Applied Artificial Intelligence, co
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 ![ROS2](https://img.shields.io/badge/ros2-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
 
-### Simulator
+### Simulators
 ![Static Badge](https://img.shields.io/badge/-Unity-grey?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/-Gazebo-orange?style=for-the-badge)
 ![Static Badge](https://img.shields.io/badge/-IsaacSim-green?style=for-the-badge)
