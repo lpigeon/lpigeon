@@ -1,9 +1,3 @@
-## Whoami
-* Hanyang University ERICA majored in Robotics Engineering. <br>
-* I like doing things, so I'm studying various fields and trying simple projects myself. <br>
-
-## What Project I Am Working
-
 ## What Project I Worked
 1. (Individual) Creating a simple game using Pygame <a href="https://github.com/lpigeon/Small-Hell"> Small Hell </a> <br>
 2. (Individual) Creation of NFT Mining Site using HTML, CSS, JavaScript, and Web3 <a href="https://metagirlsminting.netlify.app/"> MetaGirls </a> <br>
@@ -18,12 +12,9 @@
 <a href="https://github.com/lpigeon/Artificial_Intelligence"> Artificial Intelligence </a>
 8. Field practice (July-September) - Machine learning model development and company program GUI, Web development
 
-
 ## Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
