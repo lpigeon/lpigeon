@@ -1,4 +1,4 @@
-## Hello I'm Jungsoo Lee
+## Hello, I'm Jungsoo Lee 🕊
 I am a master's student in the Department of Applied Artificial Intelligence, conducting research on Human-Robot Interaction.
 
 ## Skills
