@@ -22,6 +22,31 @@ I am a master's student in the Department of Applied Artificial Intelligence, co
 ![Static Badge](https://img.shields.io/badge/-IsaacSim-green?style=for-the-badge)
 
 ## Stats
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lpigeon&theme=zenburn" />
+    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lpigeon&theme=vue" />
+    <img alt="Repos Per Language" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lpigeon&theme=zenburn" />
+    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lpigeon&theme=vue" />
+    <img alt="Stats" />
+  </picture>
+</div>
+</br>
+
+## Achievements
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=lpigeon&theme=chalk&column=5&margin-w=15&margin-h=15" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=lpigeon&theme=flat&column=5&margin-w=15&margin-h=15" />
+    <img alt="Achievements Trophy" />
+  </picture>
+</div>
+</br>
+
+<!--## Stats
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 <img height=259 src="https://github-readme-stats.vercel.app/api/top-langs?username=lpigeon&layout=compact&langs_count=12&hide_border=true&role=owner,collaborator&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Jungsoo's Language stats" />
@@ -30,9 +55,7 @@ I am a master's student in the Department of Applied Artificial Intelligence, co
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 <img height=259 src="https://github-readme-stats.vercel.app/api?username=lpigeon&show_icons=true&line_height=28&hide_border=true&card_width=347&include_all_commits=true&role=owner,collaborator&show=reviews,discussions_answered&rank_icon=percentile&exclude_repo=github-readme-stats&theme=dark&bg_color=000000#gh-dark-mode-only" alt="Github stats" />
 </a>
-</div>
-
-<br/>
+</div>-->
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpigeon&theme=buefy&show_icons=true) -->
 
